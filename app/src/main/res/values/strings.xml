@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Thirty Days of Security</string>
+    
+    
+<!--    Here goes the strings and descriptions . All thanks to bard and chatgpt 😁-->
+
+    <string name="heading_1">Strong passwords for online accounts</string>
+    <string name="description_1">Use unique and robust passwords to protect your online accounts from unauthorized access.</string>
+
+    <string name="heading_2">Enable two-factor authentication (2FA)</string>
+    <string name="description_2">Add an extra layer of security to your accounts by enabling two-factor authentication, which requires a verification code in addition to your password.</string>
+
+    <string name="heading_3">Keep software up to date</string>
+    <string name="description_3">Regularly update your operating system, browser, and antivirus software to ensure you have the latest security patches and protection against vulnerabilities.</string>
+
+    <string name="heading_4">Be cautious with online sharing</string>
+    <string name="description_4">Exercise caution when sharing personal information online, particularly on social media platforms, to safeguard your privacy and prevent potential misuse.</string>
+
+    <string name="heading_5">Avoid clicking unknown links</string>
+    <string name="description_5">Refrain from clicking on links in emails or messages from unfamiliar sources to avoid falling victim to phishing attempts or malware downloads.</string>
+
+    <string name="heading_6">Beware of information requests</string>
+    <string name="description_6">Stay skeptical of emails or messages requesting personal or financial information, as they could be scams attempting to steal your sensitive data.</string>
+
+    <string name="heading_7">Download from trusted sources</string>
+    <string name="description_7">Only download files or applications from reputable sources to minimize the risk of inadvertently installing malware or harmful software.</string>
+
+    <string name="heading_8">Use firewall and antivirus</string>
+    <string name="description_8">Protect your devices by utilizing firewalls and reliable antivirus software to shield against unauthorized access and potential security threats.</string>
+
+    <string name="heading_9">Regularly back up data</string>
+    <string name="description_9">Create regular backups of your important files and data to prevent data loss in case of device theft, hardware failure, or other unforeseen events.</string>
+
+    <string name="heading_10">Be cautious of Wi-Fi networks</string>
+    <string name="description_10">Exercise caution when connecting to Wi-Fi networks, particularly public ones, to avoid potential risks associated with unsecured networks.</string>
+
+    <string name="heading_11">Avoid sensitive activities on public computers</string>
+    <string name="description_11">Refrain from performing sensitive activities, such as accessing financial accounts, on public computers that may not be secure and could compromise your information.</string>
+
+    <string name="heading_12">Be aware of public Wi-Fi risks</string>
+    <string name="description_12">Understand the risks associated with using public Wi-Fi, such as the potential for data interception or unauthorized access to your device, and take appropriate precautions.</string>
+
+    <string name="heading_13">Use VPN on public Wi-Fi</string>
+    <string name="description_13">Enhance your online security on public Wi-Fi by using a virtual private network (VPN) to encrypt your internet connection and protect your data.</string>
+
+    <string name="heading_14">Secure devices when not in use</string>
+    <string name="description_14">Take measures to secure your devices when you\'re not actively using them, such as locking them with passwords or biometric authentication.</string>
+
+    <string name="heading_15">Guard against device theft</string>
+    <string name="description_15">Prevent device theft by not leaving your devices unattended in public places and keeping them secure to protect your personal information.</string>
+
+    <string name="heading_16">Be careful with phone information</string>
+    <string name="description_16">Exercise caution when sharing personal information over the phone to avoid potential scams or fraudulent activities.</string>
+
+    <string name="heading_17">Avoid giving personal information to strangers</string>
+    <string name="description_17">Refrain from disclosing your personal information to individuals you don\'t know or trust to protect yourself from identity theft or other risks.</string>
+
+    <string name="heading_18">Beware of social engineering</string>
+    <string name="description_18">Stay vigilant about social engineering attacks, where individuals manipulate or deceive others into revealing sensitive information, and be cautious of such attempts.</string>
+
+    <string name="heading_19">Report suspicious activity</string>
+    <string name="description_19">If you encounter any suspicious or potentially illegal activity, report it to the relevant authorities to help maintain a safer online environment.</string>
+
+    <string name="heading_20">Stay updated on security threats</string>
+    <string name="description_20">Stay informed about the latest security threats and vulnerabilities to take necessary precautions and protect your devices and data.</string>
+
+    <string name="heading_21">Keep devices in good working order</string>
+    <string name="description_21">Maintain the functionality of your devices by performing regular maintenance and addressing any software or hardware issues promptly.</string>
+
+    <string name="heading_22">Be selective with app installations</string>
+    <string name="description_22">Exercise caution when installing apps and choose them selectively to minimize the risk of downloading malicious or intrusive applications.</string>
+
+    <string name="heading_23">Trustworthy sources for app downloads</string>
+    <string name="description_23">Only download apps from trusted sources, such as official app stores, to reduce the likelihood of installing compromised or harmful applications.</string>
+
+    <string name="heading_24">Review app privacy policies</string>
+    <string name="description_24">Before installing an app, review its privacy policy to understand what data it collects, how it\'s used, and ensure it aligns with your privacy preferences.</string>
+
+    <string name="heading_25">Be mindful of data sharing</string>
+    <string name="description_25">Be mindful of the information you share with apps, ensuring it\'s necessary and limited to protect your privacy and prevent potential data misuse.</string>
+
+    <string name="heading_26">Risks of mobile malware</string>
+    <string name="description_26">Be aware of the risks associated with mobile malware, such as malicious apps or software targeting mobile devices, and take precautions to protect yourself.</string>
+
+    <string name="heading_27">Secure mobile devices when idle</string>
+    <string name="description_27">Take measures to secure your mobile devices when they\'re not in use, such as using passcodes or biometric authentication, to prevent unauthorized access.</string>
+
+    <string name="heading_28">Prevent mobile device theft</string>
+    <string name="description_28">Avoid leaving your mobile devices unattended in public places to minimize the risk of theft, which could lead to unauthorized access to your personal information.</string>
+
+    <string name="heading_29">Use mobile security apps</string>
+    <string name="description_29">Enhance the security of your mobile devices by using reputable mobile security apps that provide features like antivirus protection and anti-theft capabilities.</string>
+
+    <string name="heading_30">Regularly back up mobile data</string>
+    <string name="description_30">Regularly create backups of your mobile data, including contacts, photos, and important files, to safeguard against data loss or device failure.</string>
+
+</resources>
